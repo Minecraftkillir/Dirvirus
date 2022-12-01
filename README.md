@@ -34,7 +34,5 @@ The malware has a warning before launching press Y if continue N if you want it 
 If you want to buy the rights to the malware email neljan22@phahs.org.za
 
 youtube:  Minecraft_killer
-tik tok:  Minecraft_killer6000
-intagram: Janco_succes 
 
 ENJOY :D
