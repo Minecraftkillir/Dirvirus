@@ -31,7 +31,7 @@ Step 3: If that file survives after destructoin of dirvirus you WIN
 Any antivirus exept Avast antivurs will block this malware so dont try and test it with a good antivirus
 The malware has a warning before launching press Y if continue N if you want it to stop
 
-If you want to buy the rights to the malware email neljan22@phahs.org.za
+Anyone can borrow code from this malware
 
 youtube:  Minecraft_killer
 
